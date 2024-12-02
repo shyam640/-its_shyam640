@@ -6,7 +6,6 @@
  <p align='center'><i>"Creativity Arises from Relativity , if you can Relate Everything then you can create Anything."</i></p>
 </p>
 <br><br><br>
-<img src="Github3Dstats.gif" width='1200px'>
 
 <h3> <img src="Hi.gif" width="30px"> Hi ! there, </h3> 
 
